@@ -20,8 +20,8 @@ https://docs.microsoft.com/en-us/azure/automation/automation-webhooks
 **Torq.io**
 https://torq.io
 
-## Jamf Blog Post
-https://www.jamf.com/blog/torq--jamf-integration/
+## JNUC 2021 - Becoming an Automation Superhero with Jamf and No-Code
+https://www.jamf.com/resources/videos/becoming-an-automation-superhero-with-jamf-and-no-code/
 
 ## Jamf Pro Developer Resources 
 https://developer.jamf.com
