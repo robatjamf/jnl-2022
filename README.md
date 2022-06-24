@@ -25,6 +25,7 @@ https://www.jamf.com/resources/videos/becoming-an-automation-superhero-with-jamf
 
 ## Jamf Pro Developer Resources 
 https://developer.jamf.com
+Understanding the bearer token - https://developer.jamf.com/jamf-pro/recipes/bearer-token-authorization
 
 ## Jamf Marketplace
 https://marketplace.jamf.com
